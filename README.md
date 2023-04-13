@@ -18,10 +18,10 @@ Overall, a well-designed real estate website can be an invaluable resource for a
 
 ## Libraries I used
 
-* Hover.css
-* Swiper.js
-* Bootstrap 5
-* Font Awesome
+* Hover.css [check it](https://ianlunn.github.io/Hover/)
+* Swiper.js [check it](https://swiperjs.com/)
+* Bootstrap 5 [check it](https://getbootstrap.com/)
+* Font Awesome [check it](https://fontawesome.com/)
 
 
 
